@@ -1,0 +1,29 @@
++	+--------------------------------------
++	Some of the basic feature of the script
++	+--------------------------------------
++	Geo location wise ride
++	Language & Currency filtering
++	Find a local ride or international ride
++	Airport Rides
++	Rides Around you
++	Ladies only Rides
++	Shopping Rides
++	Latest Rides
++	
++	Search Ride
++		Location auto prompt
++	Ride listing
++		Create an alert
++		Filter by Date, Price, Photo and car comfort
++		Sort by Price and Schedule
++	Ride details
++		Google Map integration
++		Social media Sharing
++		Book a seat online
++			View number of left over seats
++			Book ride by paying online
++		View/Post Member's reviews & rating
++		Member verifications
++		View Member's Public Profile
++		Online Payment to driver once ride is been completed
++	+--------------------------------------
