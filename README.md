@@ -1,5 +1,5 @@
-v3cube.com
-==========
+Car Sharing Script, Carpooling Clone
+====================================
 Some people might look at it as a copy of Blabla but we can confidently say that our carpooling clone is bigger and better than any other car sharing product in the market. The features of our car sharing script speak for themselves:
 -	A site that can be launched and operated from any city or country in the world.
 -	Free launch, installation and configuration of the system on your server as well as Google Play and Apple stores
