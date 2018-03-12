@@ -10,4 +10,4 @@ Some people might look at it as a copy of Blabla but we can confidently say that
 -	Free configuration of country and currency, depending on your requirements.
 -	A template of your choice
 -	Selection of specialised rides like Ladies only rides, shopping rides, school runs or airport rides. 
-The best site with the best features, that is what we give you. Log onto our website http://www.v3cube.com/ for further details. 
+The best site with the best features, that is what we give you. Log onto our website https://www.v3cube.com/ for further details. 
